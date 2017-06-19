@@ -5,7 +5,7 @@
 <title>Project UAT</title>
 </head>
 <body>
-	<h1>Project UAT - PHP Application</h1>
+	<h1>Project UAT - PHP Application 2</h1>
 	<h2>OpenShift </h2>
 	<?php echo "<h2>test</h2>"; ?>
 	<a href="dbtest.php">Click here to test database</a>
